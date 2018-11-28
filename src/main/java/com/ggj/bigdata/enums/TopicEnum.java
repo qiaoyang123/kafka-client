@@ -12,13 +12,22 @@ public enum TopicEnum {
     /**
      * 环球捕手app通用日志
      */
-    LOG_HQBS_GENERAL("log_hqbs_general");
+    LOG_HQBS_GENERAL("log_hqbs_general","环球捕手app通用日志");
 
 
+    /**
+     * topic命名
+     */
     private String topic;
 
-    TopicEnum(String topic) {
+    /**
+     * topic注释
+     */
+    private String message;
+
+    TopicEnum(String topic,String message) {
         this.topic = topic;
+        this.message = message;
     }
 
     public String getTopic() {

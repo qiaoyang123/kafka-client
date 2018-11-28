@@ -2,7 +2,6 @@ package com.ggj.bigdata.producer;
 
 import com.ggj.bigdata.configure.KafKaConsumerConfigure;
 import com.ggj.bigdata.configure.KafkaProducerConfigure;
-import com.ggj.bigdata.configure.KafkaPropConfigurer;
 import com.ggj.bigdata.enums.TopicEnum;
 import com.ggj.platform.gsf.result.CodeMsg;
 import com.ggj.platform.gsf.result.PlainResult;
@@ -70,7 +69,7 @@ public class KafkaProducerClient {
            return null;
         }
 
-        Properties properties = KafKaConsumerConfigure.setProp();
+        Properties properties = KafKaConsumerConfigure.getProp();
         //构造消息对象，也即生成一个消费实例
         KafkaConsumer<String, String> consumer = new org.apache.kafka.clients.consumer.KafkaConsumer<String, String>(properties);
         //设置消费组订阅的Topic，可以订阅多个

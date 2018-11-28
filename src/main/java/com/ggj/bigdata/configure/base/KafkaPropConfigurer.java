@@ -1,4 +1,4 @@
-package com.ggj.bigdata.configure;
+package com.ggj.bigdata.configure.base;
 
 import com.ggj.bigdata.producer.KafkaProducerClient;
 
@@ -12,15 +12,6 @@ import java.util.Properties;
 public class KafkaPropConfigurer {
     private static Properties properties;
 
-    private static String AUTH_LOGIN_CONFIG_KEY = "java.security.auth.login.config";
-
-    public static void configureSasl() {
-        // 如果用 -D 或者其它方式设置过，这里不再设置
-        if (null == System.getProperty(AUTH_LOGIN_CONFIG_KEY)) {
-            // 这个路径必须是一个文件系统可读的路径，不能被打包到 jar 中
-            System.setProperty(AUTH_LOGIN_CONFIG_KEY, getKafkaProperties().getProperty(AUTH_LOGIN_CONFIG_KEY));
-        }
-    }
     public synchronized static Properties getKafkaProperties() {
         if (null != properties) {
             return properties;

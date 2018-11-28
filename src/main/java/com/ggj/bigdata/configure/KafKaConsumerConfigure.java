@@ -1,5 +1,6 @@
 package com.ggj.bigdata.configure;
 
+import com.ggj.bigdata.configure.base.KafkaPropConfigurer;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.springframework.util.StringUtils;
@@ -13,7 +14,7 @@ import java.util.Properties;
  */
 public class KafKaConsumerConfigure {
 
-    public static Properties setProp(){
+    public static Properties getProp(){
         //加载kafka.properties
         Properties kafkaProperties =  KafkaPropConfigurer.getKafkaProperties();
         Properties props = new Properties();
