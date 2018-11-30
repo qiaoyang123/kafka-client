@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7eb721c1-a743-43eb-9438-e3b1ee7571f8" name="默认更改列表" comment="" />
+=======
+    <list default="true" id="7eb721c1-a743-43eb-9438-e3b1ee7571f8" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/comsumer/KafkaConsumerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/comsumer/KafkaConsumerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafKaConsumerConfigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafKaConsumerConfigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaProducerConfigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaProducerConfigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducerClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducerClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/kafka.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/kafka.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ggj/bigdata/configure/KafkaProducerConfigure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ggj/bigdata/configure/KafkaProducerConfigure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ggj/bigdata/configure/KafkaPropConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ggj/bigdata/enums/TopicEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ggj/bigdata/enums/TopicEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ggj/bigdata/producer/KafkaProducerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ggj/bigdata/producer/KafkaProducerClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kafka.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kafka.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/kafka-client-1.0-SNAPSHOT-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/kafka-client-1.0-SNAPSHOT-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/kafka-client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/kafka-client-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,46 +30,100 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
   <component name="FUSProjectUsageTrigger">
     <session id="754210976">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="2" />
+=======
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
+<<<<<<< HEAD
           <entry key="java" value="1057" />
           <entry key="properties" value="18" />
+=======
+          <entry key="java" value="1368" />
+          <entry key="properties" value="266" />
+          <entry key="txt" value="5" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
           <entry key="xml" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="1057" />
           <entry key="PLAIN_TEXT" value="26" />
           <entry key="Properties" value="18" />
+=======
+          <entry key="JAVA" value="1368" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Properties" value="266" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
           <entry key="XML" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="class" value="5" />
           <entry key="java" value="8" />
           <entry key="properties" value="1" />
           <entry key="xml" value="1" />
+=======
+          <entry key="class" value="6" />
+          <entry key="java" value="12" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="3" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="CLASS" value="5" />
           <entry key="JAVA" value="8" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
+=======
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="12" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="4" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
         </counts>
       </usages-collector>
     </session>
@@ -59,17 +133,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/kafka.properties">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="200">
               <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+=======
+            <state relative-caret-position="275">
+              <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="27" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaPropConfigurer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="625">
               <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/base/KafkaPropConfigurer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,15 +166,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafKaConsumerConfigure.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="674">
               <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="152">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="28" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducerClient.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,6 +191,13 @@
                 <element signature="e#2280#2296#0" expanded="true" />
                 <element signature="e#2439#2447#0" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
             </state>
           </provider>
         </entry>
@@ -107,25 +206,55 @@
         <entry file="jar://$USER_HOME$/repo/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
+<<<<<<< HEAD
               <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+=======
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="jar://$USER_HOME$/repo/com/ggj/platform/gsf-api/2.0.1-SNAPSHOT/gsf-api-2.0.1-20181102.033418-10.jar!/com/ggj/platform/gsf/result/CodeMsg.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducerClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/enums/TopicEnum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
               <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+=======
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="24" column="30" selection-start-line="6" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/repo/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
             </state>
           </provider>
         </entry>
@@ -139,11 +268,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaProducerConfigure.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaProducerConfigure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="34" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,14 +301,25 @@
     <findStrings>
       <find>APP_HOME</find>
       <find>KafkaProducer</find>
+<<<<<<< HEAD
     </findStrings>
   </component>
+=======
+      <find>topic</find>
+      <find>group.id</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/JavaKafkaConfigurer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaProoducerConfigure.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaProducerConfigure.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/enums/TopicEnum.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -180,6 +328,20 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafKaConsumerConfigure.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/thread/KafkaConsumerThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducerClient.java" />
+=======
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/thread/KafkaConsumerThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/enums/TopicEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaPropConfigurer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/base/KafkaPropConfigurer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducerClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/comsumer/KafkaConsumerClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/comsumer/ConsumerMsgTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/comsumer/ConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafKaConsumerConfigure.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/kafka.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaProducerConfigure.java" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
       </list>
     </option>
   </component>
@@ -223,10 +385,17 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="1719" />
     <option name="y" value="161" />
     <option name="width" value="1440" />
     <option name="height" value="792" />
+=======
+    <option name="x" value="1620" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="795" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -245,12 +414,19 @@
       </profile-state>
     </entry>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="AndroidView" />
+=======
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -293,7 +469,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="configure" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="comsumer" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
             </path>
             <path>
               <item name="kafka-client" type="b2602c69:ProjectViewProjectNode" />
@@ -302,7 +482,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="enums" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="configure" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
             </path>
             <path>
               <item name="kafka-client" type="b2602c69:ProjectViewProjectNode" />
@@ -311,7 +495,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="producer" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="configure" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
             </path>
             <path>
               <item name="kafka-client" type="b2602c69:ProjectViewProjectNode" />
@@ -328,12 +517,20 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="AndroidView" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542177033967" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543569249797" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -388,12 +585,33 @@
       <option name="presentableId" value="Default" />
       <updated>1541572944073</updated>
       <workItem from="1541572952650" duration="7796000" />
+<<<<<<< HEAD
       <workItem from="1542092590545" duration="3728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="11524000" />
+=======
+      <workItem from="1542092590545" duration="4730000" />
+      <workItem from="1542270467359" duration="679000" />
+      <workItem from="1543308194107" duration="19000" />
+      <workItem from="1543387680061" duration="5601000" />
+      <workItem from="1543543600295" duration="3450000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix">
+      <created>1543388569769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543388569769</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22275000" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,7 +623,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="1719" y="161" width="1440" height="792" extended-state="0" />
+=======
+    <frame x="1620" y="23" width="1440" height="795" extended-state="0" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33547926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -416,14 +638,24 @@
       <window_info id="设计器" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.4047955" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3362319" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32988507" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Messages" order="7" weight="0.36551723" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32857144" />
+=======
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.36534652" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.29" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
@@ -433,6 +665,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="调色板" order="4" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.32960597" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -469,6 +702,46 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+=======
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.23962805" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32960597" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32960597" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33547926" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="设计器" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4047955" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32988507" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.36551723" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.32988507" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="调色板" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32960597" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,6 +750,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -488,7 +768,11 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducerClient.java</url>
+<<<<<<< HEAD
           <line>30</line>
+=======
+          <line>29</line>
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -496,6 +780,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -503,6 +788,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/javax/security/auth/spi/LoginModule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -510,6 +797,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -517,6 +805,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
     <entry file="jar://$USER_HOME$/repo/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0.jar!/org/apache/kafka/clients/producer/RecordMetadata.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -531,6 +821,10 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/thread/KafkaConsumerThread.java" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
     <entry file="jar://$USER_HOME$/repo/com/ggj/platform/gsf-api/2.0.1-SNAPSHOT/gsf-api-2.0.1-20181102.033418-10.jar!/com/ggj/platform/gsf/result/CodeMsg.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -540,8 +834,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/enums/TopicEnum.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="350">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+=======
+        <state relative-caret-position="725">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/comsumer/ConsumerMsgTask.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/comsumer/ConsumerDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/comsumer/KafkaConsumerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
         </state>
       </provider>
     </entry>
@@ -555,6 +866,7 @@
     <entry file="jar://$USER_HOME$/repo/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
+<<<<<<< HEAD
           <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
@@ -570,12 +882,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+=======
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="79" selection-start-line="8" selection-start-column="79" selection-end-line="8" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaPropConfigurer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -583,11 +913,32 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/resources/kafka.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="30" selection-start-line="6" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/repo/org/apache/kafka/kafka-clients/0.10.0.0/kafka-clients-0.10.0.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafKaConsumerConfigure.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="674">
           <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
           <folding>
@@ -603,10 +954,24 @@
           <folding>
             <element signature="e#388#389#0" expanded="true" />
             <element signature="e#426#427#0" expanded="true" />
+=======
+        <state relative-caret-position="152">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/base/KafkaPropConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/producer/KafkaProducerClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -615,6 +980,14 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2280#2296#0" expanded="true" />
             <element signature="e#2439#2447#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ggj/bigdata/configure/KafkaProducerConfigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 6188fd38b877c8408ae3e47010dc89d664656213
           </folding>
         </state>
       </provider>
