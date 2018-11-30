@@ -60,28 +60,28 @@ public class KafkaProducerClient {
         }
     }
 
-    public static KafkaConsumer<String, String> getConsumer(TopicEnum topic){
-
-
-        //校验topic
-        String topic1 = topic.getTopic();
-        if(StringUtils.isEmpty(topic1)) {
-           return null;
-        }
-
-        Properties properties = KafKaConsumerConfigure.getProp();
-        //构造消息对象，也即生成一个消费实例
-        KafkaConsumer<String, String> consumer = new org.apache.kafka.clients.consumer.KafkaConsumer<String, String>(properties);
-        //设置消费组订阅的Topic，可以订阅多个
-        //如果GROUP_ID_CONFIG是一样，则订阅的Topic也建议设置成一样
-        List<String> subscribedTopics =  new ArrayList<String>();
-        //如果需要订阅多个Topic，则在这里add进去即可
-        //每个Topic需要先在控制台进行创建
-        subscribedTopics.add(topic1);
-        consumer.subscribe(subscribedTopics);
-
-        return consumer;
-    }
+//    public static KafkaConsumer<String, String> getConsumer(TopicEnum topic){
+//
+//
+//        //校验topic
+//        String topic1 = topic.getTopic();
+//        if(StringUtils.isEmpty(topic1)) {
+//           return null;
+//        }
+//
+//        Properties properties = KafKaConsumerConfigure.getProp();
+//        //构造消息对象，也即生成一个消费实例
+//        KafkaConsumer<String, String> consumer = new org.apache.kafka.clients.consumer.KafkaConsumer<String, String>(properties);
+//        //设置消费组订阅的Topic，可以订阅多个
+//        //如果GROUP_ID_CONFIG是一样，则订阅的Topic也建议设置成一样
+//        List<String> subscribedTopics =  new ArrayList<String>();
+//        //如果需要订阅多个Topic，则在这里add进去即可
+//        //每个Topic需要先在控制台进行创建
+//        subscribedTopics.add(topic1);
+//        consumer.subscribe(subscribedTopics);
+//
+//        return consumer;
+//    }
 
     public static void main(String[] args) throws Exception {
         send(TopicEnum.LOG_HQBS_GENERAL,"hello world");

@@ -27,7 +27,7 @@ public class KafkaProducerConfigure {
         props.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG, "org.apache.kafka.common.serialization.StringSerializer");
 
         // 请求的最长等待时间
-        props.put(ProducerConfig.MAX_BLOCK_MS_CONFIG, 30 * 1000);
+        props.put(ProducerConfig.MAX_BLOCK_MS_CONFIG, kafkaProperties.getProperty("kafka.producer.max.block.ms"));
 
         return props;
     }

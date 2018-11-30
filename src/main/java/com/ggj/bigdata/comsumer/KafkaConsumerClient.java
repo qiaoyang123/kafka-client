@@ -14,8 +14,8 @@ import java.util.Properties;
  */
 public class KafkaConsumerClient {
 
-    public static KafkaConsumer getConsumer(String[] topics){
-        Properties prop = KafKaConsumerConfigure.getProp();
+    public static KafkaConsumer getConsumer(String[] topics, String groupId){
+        Properties prop = KafKaConsumerConfigure.getProp(groupId);
 
         //构造消息对象，也即生成一个消费实例
         KafkaConsumer<String, String> consumer = new org.apache.kafka.clients.consumer.KafkaConsumer<>(prop);
